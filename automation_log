@@ -1,0 +1,4 @@
+11/24/2020 11:08:09 AM - oneTimeSetUp - INFO: ***********************STARTING TEST RUN*****************************
+11/24/2020 11:08:19 AM - SignInPage - INFO: Element found with locator: Sign in and locator tyoe: link
+11/24/2020 11:08:20 AM - SignInPage - INFO: Clicked on element with locator: Sign in locatorType: link
+11/24/2020 11:08:27 AM - oneTimeSetUp - INFO: *********************** TEST RUN END *****************************
